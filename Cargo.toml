@@ -10,7 +10,7 @@ license = "MIT"
 
 [dependencies]
 bellman = "0.14"
-rand = "0.9"     
+rand = "0.10"     
 bitcoin = "0.32.7"
 reqwest = "0.12.12"
 pairing = "0.23.0"
