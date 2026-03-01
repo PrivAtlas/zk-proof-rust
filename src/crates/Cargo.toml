@@ -7,7 +7,7 @@ edition = "2021"
 bellman = "0.14"
 rand = "0.9"     
 bitcoin = "0.32.3"
-reqwest = "0.12.7"
+reqwest = "0.13.0"
 pairing = "0.23.0"
 serde =  { version = "1.0.215", features = ["derive"] }
 serde_json = "1.0.128"
